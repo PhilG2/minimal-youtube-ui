@@ -1,7 +1,7 @@
 ! Title: Minimal YouTube UI
 ! Description: A uBlock filter List for a minimal YouTube UI
-! Homepage: https://github.com/PhilG2/minimal-Youtube-UI
-! Sync: https://raw.githubusercontent.com/PhilG2/minimal-Youtube-UI/refs/heads/main/List.txt
+! Homepage: https://github.com/PhilG2/minimal-youtube-ui
+! Sync: https://raw.githubusercontent.com/PhilG2/minimal-youtube-ui/refs/heads/main/List.txt
 ! Expires: 1 days
 
 !Startpage Sidebar
