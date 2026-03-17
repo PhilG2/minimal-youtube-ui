@@ -1,1 +1,40 @@
+! Sync: https://raw.githubusercontent.com/PhilG2/minimal-Youtube-UI/refs/heads/main/List.txt
+! Expires: 1 days
 
+!Startpage Sidebar
+!Home
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+!Subs
+!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+!You
+!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+!Explore
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+!More from YouTube
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+!Report history
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(6)
+!Copyright
+www.youtube.com###copyright
+!Links
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+
+
+!Startpage Header
+www.youtube.com###voice-search-button
+www.youtube.com###buttons > ytd-button-renderer
+
+!Filter list
+www.youtube.com###scroll-container
+
+!Startpage Snap the video grid to the top
+www.youtube.com###header.ytd-rich-grid-renderer
+www.youtube.com##.with-chipbar:style(clip-path: inset(0 0 50% 0) !important;)
+
+
+!Video Player recommendations 
+www.youtube.com###secondary
+
+!Comments
+www.youtube.com###comments
