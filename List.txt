@@ -6,38 +6,57 @@
 
 !Startpage Sidebar
 !Home
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
 !Subs
-!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+!youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 !You
-!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+!youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 !Explore
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 !More from YouTube
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
 !Report history
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(6)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(6)
 !Copyright
-www.youtube.com###copyright
+youtube.com###copyright
 !Links
-www.youtube.com###guide-links-primary
-www.youtube.com###guide-links-secondary
+youtube.com###guide-links-primary
+youtube.com###guide-links-secondary
 
 
 !Startpage Header
-www.youtube.com###voice-search-button
-www.youtube.com###buttons > ytd-button-renderer
+youtube.com###voice-search-button
+youtube.com###buttons > ytd-button-renderer
 
 !Filter list
-www.youtube.com###scroll-container
+youtube.com###chips-content
+!youtube.com###scroll-container
 
 !Startpage Snap the video grid to the top
-www.youtube.com###header.ytd-rich-grid-renderer
-www.youtube.com##.with-chipbar:style(clip-path: inset(0 0 50% 0) !important;)
+youtube.com###header.ytd-rich-grid-renderer
+youtube.com##.with-chipbar:style(clip-path: inset(0 0 50% 0) !important;)
 
 
 !Video Player recommendations 
-www.youtube.com###secondary
+youtube.com###secondary
 
 !Comments
-www.youtube.com###comments
+!youtube.com###comments
+
+!Autoplay
+youtube.com##.delhi-fast-follow-autonav-toggle.ytp-autonav-toggle.ytp-button
+
+!In Video Player recommendations
+youtube.com##.ytp-fullscreen-grid-stills-container
+
+
+
+!Quick actions in video player
+!All actions
+!youtube.com##yt-player-quick-action-buttons
+!per action rule
+youtube.com##like-button-view-model
+youtube.com##dislike-button-view-model
+!youtube.com##button-view-model.ytSpecButtonViewModelHost [aria-label="Comments"]
+youtube.com##button-view-model.ytSpecButtonViewModelHost [aria-label="Share"]
+youtube.com##button-view-model.ytSpecButtonViewModelHost [aria-label="Ask"]
