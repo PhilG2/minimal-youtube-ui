@@ -61,8 +61,8 @@ youtube.com###video-summary
 !recommendations/related content (Queue and transcript are bundeled into this aswell)
 youtube.com###secondary
 
-!to use Queue/Transcript instead: enable ###secondary and disable ###related
-!youtube.com###related
+!to use Queue/Transcript instead: disable ###secondary and enable ###related
+youtube.com###related
 
 
 !In Video Player
