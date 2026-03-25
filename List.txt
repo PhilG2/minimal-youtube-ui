@@ -27,7 +27,7 @@ youtube.com###guide-links-secondary
 
 
 
-!Startpage Header
+!Header
 youtube.com###voice-search-button
 youtube.com###buttons > ytd-button-renderer
 
@@ -35,11 +35,12 @@ youtube.com###buttons > ytd-button-renderer
 youtube.com###chips-content
 !youtube.com###scroll-container
 
-!Startpage Snap the video grid to the top
+!Snap the video grid to the top
 youtube.com###header.ytd-rich-grid-renderer
 youtube.com##.with-chipbar:style(clip-path: inset(0 0 50% 0) !important;)
 
-
+!Block members only content
+youtube.com##ytd-rich-item-renderer:has(.yt-badge-shape__text:has-text("Members only"))
 
 !Below video player
 
