@@ -45,7 +45,7 @@ youtube.com##ytd-rich-item-renderer:has(.yt-badge-shape__text:has-text("Members 
 !Playables
 !##ytd-rich-section-renderer:has(a[href="/playables"])
 !Dismissible(premium ads, shorts, playables)
-##ytd-rich-section-renderer:has(#dismissible)
+youtube.com###ytd-rich-section-renderer:has(#dismissible)
 
 
 !Below video player
