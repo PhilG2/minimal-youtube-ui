@@ -42,6 +42,9 @@ youtube.com##.with-chipbar:style(clip-path: inset(0 0 50% 0) !important;)
 !Block members only content
 youtube.com##ytd-rich-item-renderer:has(.yt-badge-shape__text:has-text("Members only"))
 
+!Playables
+##ytd-rich-section-renderer:has(a[href="/playables"])
+
 !Below video player
 
 !action bar 
